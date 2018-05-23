@@ -1,0 +1,1 @@
+const hotPlugin = require('webpack-hot-middleware/client')
